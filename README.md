@@ -54,6 +54,10 @@ GNU General Public License v3.0
 
 * This software is provided for educational use only! The author will not be held responsible for any illegal activity by you. By using this software, you agree to these terms.
 
+# Donate
+
+### PayPal: https://PayPal.me/CodingRanjith
+
 
 
 
