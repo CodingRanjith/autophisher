@@ -20,7 +20,7 @@ The use of the autophisher & its resources/phishing-pages is COMPLETE RESPONSIBI
 
 ### Kali Linux
 
-![]()
+![](https://github.com/CodingRanjith/autophisher/blob/main/crkgithub/linuxlogo.jpg)
 
 - `apt update`
 - `apt install git`
