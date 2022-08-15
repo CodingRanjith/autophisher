@@ -46,6 +46,9 @@ The use of the autophisher & its resources/phishing-pages is COMPLETE RESPONSIBI
 - `cd autophisher`
 - `bash autophisher.sh`
 
+# Licence
+
+
 
 
 
