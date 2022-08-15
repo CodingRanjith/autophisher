@@ -48,6 +48,11 @@ The use of the autophisher & its resources/phishing-pages is COMPLETE RESPONSIBI
 
 # Licence
 
+GNU General Public License v3.0
+
+# Legal Notice
+
+* This software is provided for educational use only! The author will not be held responsible for any illegal activity by you. By using this software, you agree to these terms.
 
 
 
