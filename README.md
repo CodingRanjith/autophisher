@@ -16,4 +16,26 @@ The use of the autophisher & its resources/phishing-pages is COMPLETE RESPONSIBI
     * Ngrok(https://ngrok.com/)
     * LocalXpose(https://localxpos.io/)
 
+# Installation
+
+### Kali Linux
+
+- `apt update`
+- `apt install git`
+- `git clone https://github.com/CodingRanjith/autophisher.git`
+- `cd autophisher`
+- `bash autophisher.sh`
+
+### Android Termux App
+
+- `apt upgrade`
+- `apt install git`
+- `git clone https://github.com/CodingRanjith/autophisher.git`
+- `ls`
+- `cd autophisher`
+- `bash autophisher.sh`
+
+
+
+
 
