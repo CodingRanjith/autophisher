@@ -56,7 +56,7 @@ GNU General Public License v3.0
 
 # Donate
 
-### PayPal: https://PayPal.me/CodingRanjith
+### PayPal: https://bit.ly/3QKknix
 
 
 
