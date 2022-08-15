@@ -12,4 +12,8 @@ The use of the autophisher & its resources/phishing-pages is COMPLETE RESPONSIBI
 - Beginner Friendly
 - Multiple Tunneling optoins
     * Localhost
+    * CloudFlared
     * Ngrok(https://ngrok.com/)
+    * LocalXpose(https://localxpos.io/)
+
+
